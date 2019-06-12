@@ -21,6 +21,6 @@
     { "id": 3, "title": "Centrally located appartment", "thumbnail": "https://picsum.photos/id/1065/400/400", "price": "$280,000" },
     { "id": 4, "title": "Downtown apartment", "thumbnail": "https://picsum.photos/id/1076/400/400", "price": "$1,200,000" },
     { "id": 5, "title": "Fairytale castle", "thumbnail": "https://picsum.photos/id/1040/400/400", "price": "$5,000,000" }
-  ],
+  ]
 }
 
